@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasanth.s
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on hacker
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning web developing
+- 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me vasanth2610vh@gmail.com
 
 <!---
