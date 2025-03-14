@@ -39,6 +39,6 @@
 ### 📫 Let's Connect  
 💌 **Email:** [vasanth2610vh@gmail.com](mailto:vasanth2610vh@gmail.com)  
 🐙 **GitHub:** [@vasanth2610](https://github.com/vasanth2610)  
-💼 **LinkedIn:** [Your LinkedIn (if available)](https://www.linkedin.com/)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/)  
 
 🚀 _Let's build something amazing together!_  
